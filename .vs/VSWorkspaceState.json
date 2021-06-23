@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
+    "",
     "\\main",
     "\\main\\js",
-    "\\main\\json"
+    "\\main\\json",
+    "\\main\\pic"
   ],
+  "SelectedNode": "\\main\\js\\load_exam.js",
   "PreviewInSolutionExplorer": false
 }
